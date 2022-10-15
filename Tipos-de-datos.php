@@ -44,9 +44,10 @@ var_dump($numerito); //var_dump() imprime la informacion.
 
 echo "\n"; //salto de linea.
 
+/*Si ejecutamos nuestro archivo PHP nos indica que $numerito es de tipo integer (int) con un valor de 25, es decir, realiza la conversión internamente de String a int de la cadena "23" y luego le suma el número 2:*/
 
-
-
+/*Conclusión
+PHP es muy permisivo, pero esto nos puede llevar a malas prácticas. Por ello es recomendable siempre monitorear los tipos de datos*/
 
 
 
