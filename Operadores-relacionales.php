@@ -51,9 +51,9 @@ Si el numero de la izquierda es menor que el numero de la derecha, el resultado 
 
 // Fusión de Null, ??
 
-$edad_de_Lore = 41;
+//$edad_de_Lore = 41;
 
-echo $edad_de_Milo ?? $edad_de_Lore
+//echo $edad_de_Milo ?? $edad_de_Lore;
 echo "\n";
 
 // Si la edad de Juanito no esta definida, usa la edad de pepito
