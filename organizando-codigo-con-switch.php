@@ -45,3 +45,14 @@ switch ($michi) {
 }
 
 echo "\n";  
+
+**Lecturas recomendadas**
+
+PHP: switch - Manual
+
+https://www.php.net/manual/es/control-structures.switch.php
+
+
+GitHub - platzi/curso-basico-php-arreglos at 25ef35e40ef52679f2aaf21e9af219154cd33c2f
+
+https://github.com/platzi/curso-basico-php-arreglos/tree/25ef35e40ef52679f2aaf21e9af219154cd33c2f
