@@ -49,8 +49,7 @@ echo "\n";
 
 /* Si queremos iniciar en 1 podemos poner $contador++ ates que el echo. Podemos también iniciar en 1 y poner que sea <= a 10
 
-
-
+/* IMPRORTANTE siempre poner el $contador y el condicional (va a ayudar a poner un tope en el ciclo).
 
 //--------------------
 /* Lecturas recomendadas
