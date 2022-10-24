@@ -27,12 +27,27 @@ $contador = 0;
 //contador es una variable que me permite llevar la cuenta de cuantas veces hemos repetido ese bucle.
 //cuando hablamos de iteracion nos referimos a que buecle estamos, si es la primera iteracion o la segunda, etc.
 
-while($contador < 10) {
+/* while($contador < 10) {
     echo "Hola, espero que esto funcione bien y no se cicle. \n";
     $contador++;
+} 
+
+echo "\n";
+
+*/
+
+//La variable contador se puede usar asi:
+
+while ($contador < 10) {    
+    echo "Actualmente, estoy en la iteracion $contador \n";
+    $contador++;  
 }
 
 echo "\n";
+
+# en consola va a empezar a contar desde 0 a 9
+
+/* Si queremos iniciar en 1 podemos poner $contador++ ates que el echo. Podemos también iniciar en 1 y poner que sea <= a 10
 
 
 
