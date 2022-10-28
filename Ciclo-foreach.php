@@ -1,6 +1,6 @@
 <?php
 
-//El ciclo foreach es genial!!
+//El ciclo foreach es genial 🥰!!
 
 /* La ventaja de este ciclo es que nos permite recorrer cualquier elemento que sea iterable sin tener que contar con los elementos del mismo. El por si solo detecta cuantos elementos tiene dicho elemento.
 
@@ -34,4 +34,6 @@ Además es muy fácil de leer y es muy útil. Nosotros nisiquiera tenemos que de
 */
 
 //💡 👩‍💻**SI NUESTRO BLOQUE DE CODIGO TIENE UNA SOLA LINEA PODEMOS OMITIR ESTAS LLAVES {} ESTA REGLA SE APLICA CON TODOS LOS CICLOS.**👩‍💻
+
+
 
