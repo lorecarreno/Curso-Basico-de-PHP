@@ -9,6 +9,7 @@ $tiendita_de_cafes = array (
 );
 
 //EJEMPLO DE COMO USAR BREAK
+//Me permite romper el ciclo.
 
 /*
 
@@ -26,6 +27,7 @@ echo "\n";
 */
 
 //EJEMPLO DE COMO USAR CONTINUE
+//Me salta el siguiente ciclo sin importar si el bloque de código se ha terminado de ejecutar.
 
 foreach ($tiendita_de_cafes as $cafe => $precio) {
     if ($cafe == "Recalentado") 
