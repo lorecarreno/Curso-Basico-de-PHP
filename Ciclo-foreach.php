@@ -33,7 +33,7 @@ echo "\n";
 Además es muy fácil de leer y es muy útil. Nosotros nisiquiera tenemos que decirle cuanto mide el arreglo para poder usarlo. Eso es genial.
 */
 
-//💡 👩‍💻**SI NUESTRO BLOQUE DE CODIGO TIENE UNA SOLA LINEA PODEMOS OMITIR ESTAS LLAVES {} ESTA REGLA SE APLICA CON TODOS LOS CICLOS.**👩‍💻
+//💡👩‍💻**SI NUESTRO BLOQUE DE CODIGO TIENE UNA SOLA LINEA PODEMOS OMITIR ESTAS LLAVES {} ESTA REGLA SE APLICA CON TODOS LOS CICLOS.**👩‍💻
 
 
 
