@@ -1,9 +1,9 @@
 
 <?php
 
-/* un arreglo es una variable compuesta, o sea una varíale que contiene múltiples valores.
+/* un arreglo es una variable compuesta, o sea una variable que contiene múltiples valores.
 
-podemos acceder a esos valores haciendo referencia a sus respectivos subíndices, los subíndices en un arreglo siempre empiezan en cero. */
+Podemos acceder a estos valores haciendo referencia a sus respectivos subíndices, los subíndices en un arreglo siempre empiezan en cero. */
 
 $edades = [20, 18, 40];
 
