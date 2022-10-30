@@ -8,8 +8,8 @@ Qué es una Función?
 Podemos verlas como un chef mágico al cuál tú le das los ingredientes y te devuelve un pastel ya hecho.
 
 - También podemos verlas como "ponerle nombre a un bloque de código."
-💡
-En resumen una función sirve para separar todo un bloque de código, ponerle un nombre, y *utiluzarla cuantas veces queramos* sin preocuparnos por cómo trabaja por dentro.
+
+💡 En resumen una función sirve para separar todo un bloque de código, ponerle un nombre, y *utiluzarla cuantas veces queramos* sin preocuparnos por cómo trabaja por dentro.
 
 Ayuda a tener código más ordenado, reutilizable y fácil de entender.
 👩‍💻
